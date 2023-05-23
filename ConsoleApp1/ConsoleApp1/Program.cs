@@ -12,7 +12,6 @@
             Console.WriteLine("2. Вычитание");
             Console.WriteLine("3. Умножение");
             Console.WriteLine("4. Деление");
-            //внес изменения
             Console.WriteLine("Результат: ");
             int? c = Convert.ToInt16(Console.ReadLine());
             switch (c)
